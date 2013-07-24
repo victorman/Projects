@@ -2,6 +2,7 @@
 
 # Pi.pl
 # return pi to n digits.
+# referenced and translated code from http://www.mathpropress.com/stan/bibliography/spigot.pdf
 
 use Getopt::Long;
 use strict;
