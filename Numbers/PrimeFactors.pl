@@ -10,6 +10,8 @@ GetOptions("prime=i",\$n);
 
 unless($n) { exit(1); }
 
+# algorithm translated from topcoder tutorial at
+# http://community.topcoder.com/tc?module=Static&d1=tutorials&d2=primeNumbers
 {
     use integer;
     my $i;
