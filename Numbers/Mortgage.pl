@@ -1,7 +1,7 @@
 #! /usr/bin/perl
 
 # Mortgage.pl
-# calculate menthly payments on fixed term mortgage
+# calculate monthly payments on fixed term mortgage
 
 use Getopt::Long;
 use strict;
